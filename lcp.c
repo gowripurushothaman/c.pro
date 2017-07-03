@@ -7,7 +7,7 @@ char a[10],b[10],i,j;
 int c,d;
 printf("enter the first string");
 gets(a);
-printf(:enter the second string");
+printf("enter the second string");
 gets(b);
 c=strlen(a);
 d=strlen(b);
